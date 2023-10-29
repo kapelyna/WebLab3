@@ -1,0 +1,25 @@
+
+table{
+    height: 100%;
+    width: 100%;
+    border: 3px solid black; 
+    border-collapse: collapse;
+}
+
+td, th{
+    border: 1px solid black;
+}
+
+th{
+    height: 75px;
+}
+
+td{
+    height: 45px;
+    text-align: center;
+}
+
+/* tr:hover{
+    background-color: rgb(157, 223, 103);
+    cursor: defaultS;
+} */
